@@ -1,5 +1,5 @@
-## This function creates a matrix object that can caches its inverse. 
 
+## This function creates a matrix object that can caches its inverse. 
 makeCacheMatrix <- function(x = matrix()) {
   i<- Null
   set<- function(y){ ##set the value of the vector
